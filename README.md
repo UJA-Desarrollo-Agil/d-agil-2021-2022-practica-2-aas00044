@@ -43,11 +43,7 @@ Grado en Ingeniería Informática, Universidad de Jaén.
 
 ## 3.1. Product Backlog al comienzo
 
-![Captura1](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-savg0001/blob/desarrollo/img/PBacklogordenado.PNG)
-
-_Captura del tablero de Trello al iniciar la práctica (1/2)_
-
-![Captura2](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-savg0001/blob/desarrollo/img/PBacklogordenado2.PNG)
+![Captura1](https://github.com/UJA-Desarrollo-Agil/d-agil-2021-2022-practica-2-aas00044/blob/release/games/media/img/Tablero%20trello.png)
 
 _Captura del tablero de Trello al iniciar la práctica (2/2)_
 
@@ -55,22 +51,18 @@ _Captura del tablero de Trello al iniciar la práctica (2/2)_
 
 ## 3.2. Product Backlog al final
 
-![Captura3](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-savg0001/blob/desarrollo/img/Fin.PNG)
+![Captura2](https://github.com/UJA-Desarrollo-Agil/d-agil-2021-2022-practica-2-aas00044/blob/release/games/media/img/Trello%202.png)
 
-_Captura del tablero de Trello al final de la práctica. La tarjeta 7 fue modificada ya que ví mucho más práctico y visual añadir imágenes a implementar un diálogo._
-
-## Aclaración
-
-Quedaron dos tarjetas sin hacer debido a la mala gestión del tiempo, siendo estas las que menos valor aportan al proyecto.
+_Captura del tablero de Trello al final de la práctica.
 
 <a name="capturasTrello"></a>
 
 # 4. Capturas de pantalla de Telegram
 
-![Captura5](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-savg0001/blob/desarrollo/img/VinculadoTrelloo.PNG)
+![Captura3](https://github.com/UJA-Desarrollo-Agil/d-agil-2021-2022-practica-2-aas00044/blob/release/games/media/img/trellobot.png)
 
 _Captura de Telegram: Trello vinculado_
 
-![Captura6](https://github.com/UJA-Desarrollo-Agil/dagil-2021-pr2-savg0001/blob/desarrollo/img/VinculadoGitHubb.PNG)
+![Captura4](https://github.com/UJA-Desarrollo-Agil/d-agil-2021-2022-practica-2-aas00044/blob/release/games/media/img/githubbot.png)
 
 _Captura del Telegram: GitHub vinculado_
